@@ -1,3 +1,6 @@
 .idea/
 .code/
 cmake-build-debug/
+.vs/
+Debug/
+cmake-build-debug/
